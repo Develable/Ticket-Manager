@@ -1,0 +1,19 @@
+{
+    "token": "Token",
+    "Guilds": {
+        "Server_id": {
+            "description": "Description",
+            "allowIssueChannel": "Channel_id",
+            "closedTicketCategory": "Category_id",
+            "Managers": {
+                "User_ID": "MEMO"
+            },
+            "Categories": {
+                "Role_ID": "Description"
+            }
+        }
+    },
+    "blockedUser": {
+        "User_ID": "MEMO"
+    }
+}
